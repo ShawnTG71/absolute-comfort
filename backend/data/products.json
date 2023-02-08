@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Comfort Star 12,000BTU 20 Seer Inverter",
+        "inventoryId" : "CBP12CD",
+        "price" : 695.00,
+        "description" : "Enjoy this black paneled, 20 Seer unit, with LED display, auto-swing, auto-restart, LCD display, remote or wired control options, dehumification function, high efficeincy filter & sleep mode function, cooling area - max 500sqft.",
+        "ratings" : "3.5",
+        "images" : [{
+            "public_id" : "products/CBP12CD",
+            "url" : "https://res.cloudinary.com/dlkez27ab/image/upload/v1675348488/acimages/comfortstart2_spnj5s.png"
+        }],
+        "category" : "Air Conditioning Units",
+        "brand" : "Comfort Star",
+        "stock" : 1,
+        "numOfReviews" : 10,
+        "reviews" : []
+    },
+    {
+        "name" : "Sani A/C Gallon",
+        "inventoryId" : "CT-196C/4",
+        "price" : 95.00,
+        "description" : "Sani A/C disinfectant, Virucide, deoderizer, mildewstatic, & cleaner",
+        "ratings" : "3.5",
+        "images" : [{
+            "public_id" : "products/CT-196C/4",
+            "url" : "https://res.cloudinary.com/dlkez27ab/image/upload/v1675362011/acimages/saniac_hjkwjy.png"
+        }],
+        "category" : "Cleaning Products",
+        "brand" : "Chemtron",
+        "stock" : 70,
+        "numOfReviews" : 10,
+        "reviews" : []
+    }
+]
